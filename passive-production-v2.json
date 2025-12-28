@@ -2,7 +2,7 @@
     "version": 2,
     "production": [
         {
-            "dinoType": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
